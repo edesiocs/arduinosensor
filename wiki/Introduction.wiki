@@ -7,6 +7,8 @@
 
 = Introduction =
 
+http://1.bp.blogspot.com/-my5R1IojQZk/T8eDLpHVCGI/AAAAAAAAASY/SGrHAZ6HFS4/s1600/2012-05-31+22.36.05.jpg
+
 The Arduino Sensor or Environment Sensor is an Arduino device that is able to detect various readings from the environment. 
 
 The Arduino capable device we are using for this is the [https://www.pjrc.com/teensy/ Teensy 2.0]. For all the hardware parts and the schematic on how to make it, head over to the [http://code.google.com/p/arduinosensor/wiki/Hardware Hardware] page.
