@@ -1,5 +1,9 @@
 #summary Arduino Sensor Wiki
 
+= Table of Contents =
+<wiki:toc max_depth="1" />
+
+
 = Introduction =
 
 The Arduino Sensor or Environment Sensor is an Arduino device that is able to detect various readings from the environment. 
