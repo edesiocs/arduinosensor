@@ -1,4 +1,4 @@
-#summary Schematic details for Hardware
+#summary Information about the hardware used
 = Table of Contents =
 <wiki:toc max_depth="1" />
 
