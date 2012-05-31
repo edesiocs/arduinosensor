@@ -19,4 +19,5 @@
 
 = Details =
 
-All these components were wired up together. To read the schematic, download it from here http://code.google.com/p/arduinosensor/source/browse/trunk/Environment%20Sensor.fzz The file is created using [http://fritzing.org/ Fritzing] and you would need their software to read it.
+All these components were wired up together. To read the schematic, download it from here [http://code.google.com/p/arduinosensor/source/browse/trunk/Environment%20Sensor.fzz Environment_Sensor.fzz]. 
+The file is created using [http://fritzing.org/ Fritzing] and you would need their software to open this file.
