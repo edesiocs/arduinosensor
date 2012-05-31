@@ -1,0 +1,12 @@
+#summary How to use the Device
+
+= Introduction =
+
+Once assembled according to the schematic given and flashed the code into the teensy, it's ready to be used! Here's a guide on how it works.
+
+
+= Details =
+
+In order to use it correctly, first plug the device to the computer. Next run the Python script to allow checking on the device for any alerts that need to be sent to its twitter account.
+
+Once the device is turned on, it will show a welcome logo. After 1 sec, it will cycle through 5 windows. This page to be edited.
