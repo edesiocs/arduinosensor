@@ -9,19 +9,13 @@
 
 The Arduino Sensor or Environment Sensor is an Arduino device that is able to detect various readings from the environment. 
 
-The Arduino device we are using for this is the [https://www.pjrc.com/teensy/ Teensy 2.0] 
+The Arduino capable device we are using for this is the [https://www.pjrc.com/teensy/ Teensy 2.0]. For all the hardware parts and the schematic on how to make it, head over to the [http://code.google.com/p/arduinosensor/wiki/Hardware Hardware] page.
 
-= Details =
+The aim of the device is that it will be able to read in various environmental readings and inform the user if the readings are too high or too low. For this device, 5 sensors were used. The sensors detect LPG gas, Methane gas, Carbon Monoxide gas, Light and Temperature of its surroundings.
+
+Once it reaches the warning level, the device will buzz and alarm as well as send the alert warning to its [https://twitter.com/#!/RobotIAm twitter account].
+
 = Links =
 
+Hardware
 [http://code.google.com/p/arduinosensor/wiki/Hardware Hardware]
-
-== Subheading ==
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-  
-  
-  http://code.google.com/p/support/wiki/WikiSyntax
