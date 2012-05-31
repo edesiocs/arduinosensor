@@ -26,9 +26,9 @@ After all is done, take note of the Consumer key, Consumer secret key, Access to
 
 With this information, you can then tweet directly from python. Here's the code:-
 
-
+{{{
   import twitter
 
   api = twitter.Api(consumer_key='key', consumer_secret='key', access_token_key='key', access_token_secret='key') 
-
   api.PostUpdate("Hello world from Python!")
+}}}
