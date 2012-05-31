@@ -19,7 +19,4 @@
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+All these components were wired up together. To read the schematic, download it from here http://code.google.com/p/arduinosensor/source/browse/trunk/Environment%20Sensor.fzz The file is created using [http://fritzing.org/ Fritzing] and you would need their software to read it.
