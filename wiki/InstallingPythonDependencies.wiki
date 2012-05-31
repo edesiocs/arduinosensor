@@ -1,0 +1,26 @@
+#summary How to install dependencies for Python
+= Table of Contents =
+<wiki:toc max_depth="1" />
+
+= Introduction =
+Before running the Python code provided, there are dependencies that needs to be installed. Here's a guide to the installation.
+
+= Installation Guide = 
+We planned to have our board tweet it's status update to twitter. In order to do so, we used python and here's how you can do it! We followed this blog entry here. If you are lazy to go there, here's the steps.
+
+Step 1: Install Python. We are using version 2.7.3.
+
+Step 2: Download [http://pypi.python.org/pypi/pyserial pyserial] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file.
+
+Step 3: Download [http://code.google.com/p/httplib2/ httplib2] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file.
+
+Step 4: Download [http://pypi.python.org/pypi/simplejson#downloads simplejson] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file.
+
+Step 5: Download [http://pypi.python.org/pypi/setuptools setuptools 0.6c11] and install it. For me, I'm using 64 bit Windows 7, so it's a bit tricky. Instead download [http://peak.telecommunity.com/dist/ez_setup.py ez_setup.py] and run it in command prompt / terminal by typing "python ez_setup.py".
+
+Step 6: Download a copy of [https://github.com/simplegeo/python-oauth2 python-oauth2] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file. If you skiped Step 5, this will not work.
+
+
+And that's it! All the files needed is install.
+
+
