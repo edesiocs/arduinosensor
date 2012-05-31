@@ -1,0 +1,10 @@
+#summary Using the SL018 RFID
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Our Device uses the SL018 RFID module. In order to use it, we referenced [http://rfid.marcboon.com/ Marc Boon's RFID Sniffer code]. We used his code from https://github.com/marcboon/RFIDuino and modified it so that we can read a MiFare card for it's ID number.
