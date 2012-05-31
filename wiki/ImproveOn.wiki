@@ -1,0 +1,10 @@
+#summary This page contains things that are to be improved on.
+
+= Introduction =
+
+The current device is far from perfect. It can still be improved upon. This page will contain all the details that can be improved upon by people. Contributions are always welcome.
+
+
+= Details =
+
+Details Details
