@@ -4,12 +4,17 @@
 
 = List of Hardware =
 
- * [https://www.pjrc.com/teensy/ Teensy 2.0]
- * [http://www.sparkfun.com/products/9088 Mini Photocell]
- * [http://www.sparkfun.com/products/8891 3 Gas Sensor Breakout]
- * [http://www.sparkfun.com/products/9405 LPG Gas Sensor MQ-6]
- * [http://www.sparkfun.com/products/9404 Methane CNG Gas Sensor MQ-4]
- * [http://www.sparkfun.com/products/9403 Carbon Monoxide Sensor MQ-7] 
+ * [https://www.pjrc.com/teensy/ Teensy 2.0 - 1 ]
+ * [http://www.sparkfun.com/products/9088 Mini Photocell - 1]
+ * [http://www.sparkfun.com/products/8891 Gas Sensor Breakout - 3]
+ * [http://www.sparkfun.com/products/9405 LPG Gas Sensor - 1]
+ * [http://www.sparkfun.com/products/9404 Methane CNG Gas Sensor - 1]
+ * [http://www.sparkfun.com/products/9403 Carbon Monoxide Sensor - 1] 
+ * [http://www.sparkfun.com/products/97 Mini Push Button Switch - 4]
+ * [http://www.stronglink-rfid.com/en/rfid-modules/sl018.html HF RFID Module SL018]
+ * [http://www.stronglink-rfid.com/en/rfid-tags/slk01.html Various Mifare Tags]
+ * Various Resistors
+ * Wires
 
 
 = Details =
