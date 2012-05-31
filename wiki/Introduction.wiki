@@ -18,4 +18,5 @@ Once it reaches the warning level, the device will buzz and alarm as well as sen
 = Links =
 
 [http://code.google.com/p/arduinosensor/wiki/InstallingPythonDependencies Installing Python Dependencies]
+
 [http://code.google.com/p/arduinosensor/wiki/Hardware Hardware]
