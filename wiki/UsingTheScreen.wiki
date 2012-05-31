@@ -1,0 +1,7 @@
+#summary A short guide to using the LCD Screen
+
+= Introduction =
+
+It's going to be very short. I'm just going to say, go here: http://arduino.cc/en/Tutorial/LiquidCrystal
+
+All the information is there. :P
