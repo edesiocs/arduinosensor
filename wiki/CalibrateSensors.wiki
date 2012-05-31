@@ -1,19 +1,18 @@
-#summary One-sentence summary of this page.
+#summary How to calibrate the Temperature Sensor
 
 = Introduction =
 
-Add your content here.
-
+This is a guide on how to calibrate the Temperature Sensor.
 
 = Details =
 
-In our project, we have 5 sensors in all and they are all connected to the ADC of the Teensy. What's an ADC? Read more here.
+In our project, we have 5 sensors in all and they are all connected to the ADC of the Teensy. What's an ADC? Read more [http://arduino.cc/playground/CourseWare/AnalogInput here].
 
 The cliff notes is that the arduino reads in voltage value from 0v to 5v and it relates this values to a number between 0 to 1023. 0v being 0, 5v being 1023 and everything inbetween is scaled appropriately.
 
 Why the magic number of 1023? The answer: It has only a 10 bit resolution for the ADC. 2^10 = 1024. 
 
-For this entry, we will try to calibrate the Temperature Sensor. The data sheet is located here. Our Temperature Sensor is the TMP36 so we shall look at the appropriate section. To calibrate, we take a look at the "Output voltage vs Temperature" Graph.
+For this entry, we will try to calibrate the Temperature Sensor. The data sheet is located [http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Temp/TMP35_36_37.pdf here]. Our Temperature Sensor is the TMP36 so we shall look at the appropriate section. To calibrate, we take a look at the "Output voltage vs Temperature" Graph.
 
 http://3.bp.blogspot.com/-QAuK7-KHWlY/T8b7i51P4-I/AAAAAAAAASE/4whidkqjT1M/s1600/Graph.png
 
