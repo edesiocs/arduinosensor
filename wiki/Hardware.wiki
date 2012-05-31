@@ -11,7 +11,9 @@
  * [http://www.sparkfun.com/products/9404 Methane CNG Gas Sensor - 1]
  * [http://www.sparkfun.com/products/9403 Carbon Monoxide Sensor - 1] 
  * [http://www.sparkfun.com/products/97 Mini Push Button Switch - 4]
- * [http://www.stronglink-rfid.com/en/rfid-modules/sl018.html HF RFID Module SL018]
+ * [http://www.stronglink-rfid.com/en/rfid-modules/sl018.html HF RFID Module SL018 -1]
+ * [http://www.sparkfun.com/products/255 Basic 16x2 Character LCD]
+ * [http://www.sparkfun.com/products/7950 Buzzer]
  * [http://www.stronglink-rfid.com/en/rfid-tags/slk01.html Various Mifare Tags]
  * Various Resistors
  * Wires
