@@ -30,7 +30,7 @@ With this, we know it's linear and that 100 degrees is 320, we can then calculat
 
 Boiling water = 320/1023 = 1.56 volts
 
-Therefore Ice = 1023/5 * (1.56 - 1) = 115 ADC value
+Therefore Ice = 1023/5 `*` (1.56 - 1) = 115 ADC value
 
 This means that 320-115 = 205 ADC values to go from 0 to 100.
 
