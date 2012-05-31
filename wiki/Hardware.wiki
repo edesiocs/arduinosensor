@@ -1,8 +1,15 @@
 #summary Schematic details for Hardware
+= Table of Contents =
+<wiki:toc max_depth="1" />
 
-= Introduction =
+= List of Hardware =
 
-Add your content here.
+ * [https://www.pjrc.com/teensy/ Teensy 2.0]
+ * [http://www.sparkfun.com/products/9088 Mini Photocell]
+ * [http://www.sparkfun.com/products/8891 3 Gas Sensor Breakout]
+ * [http://www.sparkfun.com/products/9405 LPG Gas Sensor MQ-6]
+ * [http://www.sparkfun.com/products/9404 Methane CNG Gas Sensor MQ-4]
+ * [http://www.sparkfun.com/products/9403 Carbon Monoxide Sensor MQ-7] 
 
 
 = Details =
