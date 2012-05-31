@@ -2,8 +2,7 @@
 
 = Introduction =
 
-Here's the introduction
-
+The Arduino Sensor or Environment Sensor as is an Arduino device that is able to detect various readings from the environment.
 
 = Details =
 
