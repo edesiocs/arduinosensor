@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+When a MiFare card is presented, our program will read in the card ID. A default profile and setting file is pre-programmed into the arduino. The system will adjust the threshold and sound the buzzer if the threshold is breached.
 
 
 = Details =
