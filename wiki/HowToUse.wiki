@@ -23,4 +23,4 @@ http://2.bp.blogspot.com/-UA-WKPjqst4/T8eDMwHxB9I/AAAAAAAAASg/UNv-sfLHOBE/s1600/
 http://3.bp.blogspot.com/-owVEY_huuMk/T8eDONh4M2I/AAAAAAAAASo/XvCpv6c9B6Q/s1600/2012-05-31+22.36.29.jpg
 
 
-While reading the values of the various sensors, if the threshold value of a sensor is breached, the device will beep and send out an alert message out on the serial communication port. The python script is constantly listening on the serial communication port and if it detects "Alert" in the text, it will post it to the twitter account assigned to it.
+While reading the values of the various sensors, if the threshold value of a sensor is breached, the device will beep and send out an alert message out on the serial communication port. The reading and updating of the serial is interrupt driven and the system will continue to run. The python script is constantly listening on the serial communication port and if it detects "Alert" in the text, it will post it to the twitter account assigned to it.
