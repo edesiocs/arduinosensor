@@ -7,4 +7,8 @@ The current device is far from perfect. It can still be improved upon. This page
 
 = Details =
 
-Details Details
+*1)Allow on the fly update of threshold
+E.g, modifying twitter such that threshold can be changed thru a twitt in a specific format
+
+*2)Validating our calibration procedure
+E.g, testing the product in a controlled environment to validate the accuracy and reliability of the system
