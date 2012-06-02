@@ -20,7 +20,7 @@ Step 5: Download [http://pypi.python.org/pypi/setuptools setuptools 0.6c11] and 
 
 Step 6: Download a copy of [https://github.com/simplegeo/python-oauth2 python-oauth2] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file. If you skiped Step 5, this will not work.
 
-Step 7: Download [http://code.google.com/p/python-twitter/Python-Twitter ] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file.
+Step 7: Download [http://code.google.com/p/python-twitter/Python-Twitter Python-Twitter] and extract the file. To install, go to command prompt / terminal and type "python setup.py install" while inside the extracted folder of the file.
 
 
 
